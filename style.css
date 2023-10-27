@@ -1,11 +1,13 @@
+@font-face {
+    font-family: Heebo-Medium;
+    src: url(./assets/fonts/Heebo-Medium.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-header {
-    border: 1px solid black;
+    font-family: Heebo-Medium;
 }
 
 ul {
