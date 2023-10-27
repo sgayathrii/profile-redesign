@@ -1,3 +1,20 @@
 * {
-    background-color: red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    border: 1px solid black;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
 }
